@@ -1,4 +1,4 @@
-# Food Delivery SQL Analytics
+# Food Delivery SQL Analytics Case Study
 
 ## Project Overview  
 This project simulates a food delivery platform dataset inspired by Swiggy and Zomato. It demonstrates advanced SQL analytics through business-style questions and insights.  
